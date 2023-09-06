@@ -20,5 +20,4 @@ def main():
     
     display_information(name, address, city, state, zip_code, telephone, major)
 
-if __name__ == "__main__":
-    main()
+main()
